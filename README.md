@@ -1,8 +1,9 @@
-## Olá, sou o Marcos Marostega, apaixonado por tecnologia até em outros mundos! 👨🏻‍🚀
+## Olá, sou Marcos Marostega :wave:
+### 🧑🏻‍💻 Ciência da Computação 
+Um apaixonado por tecnologia de 20 anos que não limita essa paixão apenas a um código. Atualmente cursando Ciência da Computação encontro-me na constante busca por conhecimento!
 
-Olá, eu sou o Marcos Marostega, um apaixonado por tecnologia de 20 anos que não limita essa paixão apenas a este planeta. Atualmente cursando Ciência da Computação encontro-me na constante busca por conhecimento!
-
-Acredito que é nos momentos desafiadores que encontramos o verdadeiro potencial de crescimento, tanto pessoal quanto profissional. Cada obstáculo é uma oportunidade única de superação 🚀
+Acredito que é nos momentos desafiadores que encontramos o verdadeiro potencial de crescimento, tanto pessoal quanto profissional.
+Cada obstáculo é uma oportunidade única de superação :rocket:
 
 ##
 

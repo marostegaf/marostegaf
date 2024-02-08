@@ -20,7 +20,5 @@ Cada obstáculo é uma oportunidade única de superação :rocket:
   ##
  
 <div>
-  
   <a href="https://www.linkedin.com/in/marcos-marostega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>

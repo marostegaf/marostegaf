@@ -1,6 +1,6 @@
 ## Olá, sou Marcos Marostega :wave:
 ### 🧑🏻‍💻 Ciência da Computação 
-Um apaixonado por tecnologia de 20 anos que não limita essa paixão apenas a um código. Atualmente cursando Ciência da Computação encontro-me na constante busca por conhecimento!
+Um apaixonado por tecnologia de 21 anos que não limita essa paixão apenas a um código. Atualmente cursando Ciência da Computação encontro-me na constante busca por conhecimento!
 
 Acredito que é nos momentos desafiadores que encontramos o verdadeiro potencial de crescimento, tanto pessoal quanto profissional.
 Cada obstáculo é uma oportunidade única de superação :rocket:

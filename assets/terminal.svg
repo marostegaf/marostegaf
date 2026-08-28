@@ -17,7 +17,7 @@
     <text x="28" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">marostegaf@github</text>
     <text x="181.34" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:</text>
     <text x="190.36" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#58a6ff">~</text>
-    <text x="199.38" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">$ </text>
+    <text x="199.38" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#58a6ff">$ </text>
     <text x="217.42" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">whoami</text>
   </g>
 
@@ -43,7 +43,7 @@
     <text x="202.25" y="180" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">cat core-stack.txt</text>
   </g>
   <g class="tln" style="animation-delay:430ms">
-    <text x="28" y="202" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#8b949e">&gt; React • Node.js • PHP • Twig</text>
+    <text x="28" y="202" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#8b949e">&gt; React • Node • PHP • Twig</text>
   </g>
 
   <!-- Tools -->

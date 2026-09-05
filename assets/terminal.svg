@@ -14,11 +14,11 @@
   
   <!-- whoami -->
   <g class="tln" style="animation-delay:0ms">
-    <text x="28" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">marostegaf@github</text>
-    <text x="181.34" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:</text>
-    <text x="190.36" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#58a6ff">~</text>
-    <text x="199.38" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#58a6ff">$ </text>
-    <text x="217.42" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">whoami</text>
+    <text x="28" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#3fb950">marostegaf@github</text>
+    <text x="169.25" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">:</text>
+    <text x="177.5" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#58a6ff">~</text>
+    <text x="185.75" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#58a6ff">$ </text>
+    <text x="202.25" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">whoami</text>
   </g>
 
   <g class="tln" style="animation-delay:150ms">
